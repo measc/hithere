@@ -1,11 +1,10 @@
-title: Website Title
+Mary's Mumblings
 
 description: >
-  Website Description
-
+  Mary's thoughts, Photos, memories
 author:
-  name: Name
-  email: your-email@domain.com
+  name: Mary
+  email: mealcnm@gmail.com
 
 nav_pages:
   - about.md
